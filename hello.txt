@@ -7,3 +7,5 @@ test cccccc
 ABCD EFG
 
 github test abc
+
+git clone test
