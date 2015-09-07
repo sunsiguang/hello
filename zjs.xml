@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<BatchQueryResponse>
+	<logisticProviderID>YGGW</logisticProviderID>
+	<orders>
+		<order>
+			<orderNo>20150701566363</orderNo>
+			<mailNo>2808415411</mailNo>
+			<orderStatus>FAILED</orderStatus>
+			<statusTime>2015-08-03 13:41:15</statusTime>
+			<error>派送</error>
+			<remark>请及时送货 如有异常请拨打客服电话4008518518</remark>
+			<steps>
+				<step>
+					<acceptTime>2015-07-01 18:29:03</acceptTime>
+					<acceptAddress>已取件，离开 [辽宁分公司] 发往 [沈阳运转中心] </acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-07-02 03:16:19</acceptTime>
+					<acceptAddress>到达 [沈阳运转中心] </acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-07-02 03:47:29</acceptTime>
+					<acceptAddress>离开 [沈阳运转中心] 发往 [辽宁_张士营业厅_九路操作点] </acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-07-02 08:07:47</acceptTime>
+					<acceptAddress>到达 [辽宁_张士营业厅_九路操作点] </acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-07-02 08:07:47</acceptTime>
+					<acceptAddress>到达 [辽宁_张士营业厅_九路操作点] </acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-08-03 13:41:15</acceptTime>
+					<acceptAddress>返货</acceptAddress>
+				</step>
+				<step>
+					<acceptTime>2015-08-27 16:52:53</acceptTime>
+					<acceptAddress>客户已签收</acceptAddress>
+				</step>
+			</steps>
+		</order>
+	</orders>
+</BatchQueryResponse>
